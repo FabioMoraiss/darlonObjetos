@@ -1,4 +1,4 @@
-
+import java.util.LinkedList;
 
 public class linkList {
     public static void main(String[] args) {
